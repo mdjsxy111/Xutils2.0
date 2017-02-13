@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.qf.sxy.dbutils.MainActivity">
+
+    <Button
+        android:onClick="btnUpClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="数据库版本升级" />
+    <Button
+        android:onClick="createClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="创建数据库表" />
+    <Button
+        android:onClick="insertClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="添加数据" />
+    <Button
+        android:onClick="queryClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="查询数据" />
+    <Button
+        android:onClick="deleteClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="删除数据" />
+    <Button
+        android:onClick="updateClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="更改数据" />
+</LinearLayout>

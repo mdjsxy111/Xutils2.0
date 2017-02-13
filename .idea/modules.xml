@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day32_Xutils.iml" filepath="$PROJECT_DIR$/Day32_Xutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmaputils/bitmaputils.iml" filepath="$PROJECT_DIR$/bitmaputils/bitmaputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbutils/dbutils.iml" filepath="$PROJECT_DIR$/dbutils/dbutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httputils/httputils.iml" filepath="$PROJECT_DIR$/httputils/httputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myannotation/myannotation.iml" filepath="$PROJECT_DIR$/myannotation/myannotation.iml" />
+    </modules>
+  </component>
+</project>
